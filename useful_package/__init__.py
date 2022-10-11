@@ -1,1 +1,1 @@
-import module_a
+from module_a import polynom_3
